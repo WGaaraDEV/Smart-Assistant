@@ -1,2 +1,5 @@
 # Smart-Assistant
-Assistant, even better.
+
+> Now smart, we're glad to announce: Smart Assistant.
+
+By: Creators of Assistant.
