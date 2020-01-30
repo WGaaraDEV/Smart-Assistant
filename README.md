@@ -1,5 +1,5 @@
 # Smart-Assistant
 
-> Now smart, we're glad to announce: Smart Assistant.
+> We're glad to announce: Smart Assistant, now smart, now faster, now better, better than **ever**.
 
-By: Creators of Assistant.
+By the Creators of Assistant.
